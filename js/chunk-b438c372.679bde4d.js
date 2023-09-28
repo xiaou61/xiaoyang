@@ -404,7 +404,8 @@
         "use strict";
         i("182b")
     }, "62d4": function (s, t, i) {
-        s.exports = i.p + "img/man.870ce025.png"
+        // 头像男
+        s.exports = i.p + "https://img1.imgtp.com/2023/09/28/lGJORnB3.png"
     }, 7640: function (s, t, i) {
         s.exports = i.p + "img/sifter1.d7c17399.gif"
     }, 7809: function (s, t, i) {
@@ -412,7 +413,7 @@
     }, "7fd1": function (s, t, i) {
         s.exports = i.p + "img/sifter4.37a4e434.gif"
     }, 9958: function (s, t, i) {
-        s.exports = i.p + "img/woman.4163fe53.png"
+        s.exports = i.p + "https://img1.imgtp.com/2023/09/23/9PUHyzw5.png"
     }, "9efc": function (s, t, i) {
     }, cc18: function (s, t, i) {
         "use strict";
