@@ -477,7 +477,7 @@
                 }, [s("div", {staticClass: "iptBox"}, [s("div", {
                     staticClass: "iptTitle",
                     staticStyle: {margin: "0.5rem 0 0.3rem 0"}
-                }, [t._v("公告！")]), s("div", {staticClass: "errorTip"}, [t._v("禁止未成年使用 "), s("br"), t._v(" 本产品主要致力于爱情的多元化和持久化，解锁恋爱新体验，与您心爱之人一同走进甜蜜的世界吧!"), s("br"), t._v(" 识别码获取地址公众号:「情侣小互动」")]), s("button", {
+                }, [t._v("公告！")]), s("div", {staticClass: "errorTip"}, [t._v("禁止未成年使用 "), s("br"), t._v(" 本产品主要致力于爱情的多元化和持久化，解锁恋爱新体验，与您心爱之人一同走进甜蜜的世界吧!"), s("br"), t._v(" 识别码获取地址公众号:「情侣小升温」")]), s("button", {
                     staticClass: "iptBtn",
                     attrs: {type: "default"},
                     on: {
